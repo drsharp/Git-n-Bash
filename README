@@ -3,3 +3,7 @@ This is a collection of my git aliases and bash functions.
 Feel free to use them however you like. I hope they inspire you.
 
 I welcome any comments/suggestions as well. Fork and make a pull request. Or post an issue. Or just contact me!
+
+## Usage:
+
+Read .bash_profile and see how it pulls in the other files and uses the aliases and functions.
